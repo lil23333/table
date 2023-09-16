@@ -1,0 +1,11 @@
+
+ #btn {
+    background: #008;
+    color:beige;
+
+}
+tr, td {
+    width: 10px;
+    height: 10px;
+    border: 1px solid #008000;
+}
